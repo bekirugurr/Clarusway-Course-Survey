@@ -95,3 +95,7 @@ select{
     padding: 0.5em 1em;
     resize: none;
   }
+  #name:hover, #surname:hover, #email:hover, select:hover, #comment:hover {
+      background-color: rgb(117, 117, 221);
+      color: white;
+  }
